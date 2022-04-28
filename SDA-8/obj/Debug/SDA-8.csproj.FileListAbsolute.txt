@@ -1,0 +1,8 @@
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\bin\Debug\SDA-8.exe.config
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\bin\Debug\SDA-8.exe
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\bin\Debug\SDA-8.pdb
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\obj\Debug\SDA_8.Properties.Resources.resources
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\obj\Debug\SDA-8.csproj.GenerateResource.cache
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\obj\Debug\SDA-8.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\obj\Debug\SDA-8.exe
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z\SDA-8\obj\Debug\SDA-8.pdb
